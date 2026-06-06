@@ -1,7 +1,6 @@
 💰 FinInsight AI – Personal Finance Assistant
 
-Overview
-      
+Overview - 
       FinInsight AI is an intelligent financial management web application built using Streamlit, Google Gemini AI, and Plotly.
       The application helps users analyze their financial health, visualize spending patterns, calculate investment returns, and receive AI-powered financial guidance.
 
